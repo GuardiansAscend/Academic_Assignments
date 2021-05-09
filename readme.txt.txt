@@ -1,0 +1,1 @@
+This repository is an incomplete list of all recent coding assignments done for academic purposes.

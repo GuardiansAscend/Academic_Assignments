@@ -1,0 +1,12 @@
+File asdafa could not be found nor opened.
+
+File asda could not be found nor opened.
+
+File asdf could not be found nor opened.
+
+In file Car Rental Record no DrivLic.csv, line 3: In the following data fields, at least one is empty: 
+[16/11/2020, Steve, , Toyota Camry, 5KJNR28, 210000, 211000, 1000]
+
+File Car Rental Record no Plate.csv is invalid. In the following attribute fields, at least one is empty: 
+[﻿Date, Driver's Name, Driver's Licence number, Car Make, , Meter at the start of trip, Meter at the end of trip, Mileage made]
+
